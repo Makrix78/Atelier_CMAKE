@@ -43,6 +43,6 @@ jobs:
           cd build
           cmake ..
           make
-          ./src/calculator add 10 5
+          ./src/calculator sub 10 5
           
     
